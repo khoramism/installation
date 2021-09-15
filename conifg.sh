@@ -7,6 +7,7 @@ sudo apt-get install \
     gnupg \
     lsb-release \
     git \
+    wget
 # MYSQL SERVER     
 sudo apt install mysql-server
 sudo mysql_secure_installation
