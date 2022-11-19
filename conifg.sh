@@ -60,3 +60,6 @@ wget https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/linux/11664/wps
 sudo dpkg -i wps-office*
 rm -rf wps-*
 
+echo "install tabby from tabby.sh"
+## V2RAY A
+sudo snap install v2rayA

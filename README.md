@@ -26,3 +26,6 @@ VsCode |
 Discord |
 VLC |
 Docker |
+WPS |
+FDM (Free Downlaod Manager)|
+v2rayA | 
