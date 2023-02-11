@@ -63,3 +63,13 @@ rm -rf wps-*
 echo "install tabby from tabby.sh"
 ## V2RAY A
 sudo snap install v2rayA
+
+# Install qbittorrent 
+# First add the qbittorrent apt repository to your Ubuntu
+sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
+
+# update apt
+sudo apt-get update
+
+# install the program
+sudo apt-get install qbittorrent
